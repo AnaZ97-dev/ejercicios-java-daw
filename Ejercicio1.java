@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Ejercicio 1. Cálculo de expresiones físicas/matemáticas.
  * 
- * @author profesor
+ * @author Zafra Vallejo, Ana.
  */
 public class Ejercicio1 {
     
