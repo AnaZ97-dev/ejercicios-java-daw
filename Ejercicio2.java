@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Ejercicio 2. Uso de cadenas.
  *
- * @author profesor
+ * @author Zafra Vallejo, Ana.
  */
 
 public class Ejercicio2 {
