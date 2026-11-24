@@ -25,6 +25,18 @@ Repositorio con ejercicios de programación en Java realizados durante el ciclo 
 *   **Conceptos:** Bucles `while` (validación) y `for` anidados, uso de `Math.sqrt()`, lógica de formaciones militares.
 *   **Descripción:** Programa que simula formaciones militares romanas (en línea o en cuadrado) a partir de un número de soldados introducido por el usuario.
 
+### 5. `ConversorDecimalOctal.java` (Conversor Decimal a Octal)
+*   **Conceptos:** Bucle `while`, operador módulo (`%`), división entera, construcción de cadenas.
+*   **Descripción:** Programa que convierte un número decimal positivo a su equivalente en sistema octal.
+
+### 6. `MenuVolumen.java` (Menú de Volúmenes)
+*   **Conceptos:** Bucle `do-while`, `switch`, fórmulas matemáticas, cálculo de volúmenes.
+*   **Descripción:** Menú interactivo para calcular el volumen de un cubo, un cilindro o una esfera.
+
+### 7. `ParesEImpares.java` (Pares e Impares)
+*   **Conceptos:** Bucle `for`, operador módulo (`%`), acumuladores.
+*   **Descripción:** Programa que recorre los números del 10 al 60, suma los pares y multiplica los impares.
+
 ## 🚀 Cómo ejecutar los ejercicios
 1. Clona el repositorio y abre los archivos en tu IDE de Java (NetBeans, IntelliJ o Eclipse).
 2. Ejecuta cada clase como una aplicación Java.
